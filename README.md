@@ -1,6 +1,6 @@
 # Nigeria Duplex Property Market
 
-<img width="843" height="494" alt="Screenshot 2025-08-25 145449" src="https://github.com/user-attachments/assets/6e396b53-69cb-4289-960b-0856b53a3b85" />
+<img width="845" height="506" alt="Screenshot 2025-08-25 145527" src="https://github.com/user-attachments/assets/cb398f03-c80d-4b29-affa-d22e5fff7c28" />
 
 ## Project Overview
 
